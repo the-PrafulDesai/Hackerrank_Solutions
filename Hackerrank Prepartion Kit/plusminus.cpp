@@ -1,3 +1,11 @@
+/*Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. 
+Print the decimal value of each fraction on a new line with  places after the decimal.
+
+The code takes an input array of integers and calculates the ratios of positive, negative, and zero elements. 
+It uses three variables to count the occurrences, and a loop to iterate over the array. 
+The ratios are calculated by dividing the counts by the array size. The results are printed with a precision of 6 decimal places.*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
