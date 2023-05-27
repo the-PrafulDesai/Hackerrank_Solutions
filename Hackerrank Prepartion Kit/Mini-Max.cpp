@@ -1,3 +1,5 @@
+#Min-Max
+
 /*Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. 
 Then print the respective minimum and maximum values as a single line of two space-separated long integers.
 The code takes five positive integers as input. It calculates the minimum and maximum values that can be obtained by summing exactly four of the five integers.
